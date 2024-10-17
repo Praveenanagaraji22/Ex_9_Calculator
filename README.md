@@ -25,7 +25,7 @@ Step 7: Save and run the application.
 ```
 Program to print the text “calculator operation”.
 Developed by: PRAVEENA N
-Registeration Number :212222040122
+Registration Number :212222040122
 ```
 */
 ## activity_main.xml:
